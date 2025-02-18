@@ -139,7 +139,7 @@
   },
   "edgeSSRModuleMapping": {},
   "clientModules": {
-    "/workspaces/EN-resume/node_modules/next/dist/client/components/error-boundary.js": {
+    "/workspaces/en-cv/node_modules/next/dist/client/components/error-boundary.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "*",
       "chunks": [
@@ -147,7 +147,7 @@
       ],
       "async": false
     },
-    "/workspaces/EN-resume/node_modules/next/dist/esm/client/components/error-boundary.js": {
+    "/workspaces/en-cv/node_modules/next/dist/esm/client/components/error-boundary.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "*",
       "chunks": [
@@ -155,7 +155,7 @@
       ],
       "async": false
     },
-    "/workspaces/EN-resume/node_modules/next/dist/client/components/app-router.js": {
+    "/workspaces/en-cv/node_modules/next/dist/client/components/app-router.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "*",
       "chunks": [
@@ -163,7 +163,7 @@
       ],
       "async": false
     },
-    "/workspaces/EN-resume/node_modules/next/dist/esm/client/components/app-router.js": {
+    "/workspaces/en-cv/node_modules/next/dist/esm/client/components/app-router.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "*",
       "chunks": [
@@ -171,7 +171,7 @@
       ],
       "async": false
     },
-    "/workspaces/EN-resume/node_modules/next/dist/client/components/layout-router.js": {
+    "/workspaces/en-cv/node_modules/next/dist/client/components/layout-router.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "*",
       "chunks": [
@@ -179,7 +179,7 @@
       ],
       "async": false
     },
-    "/workspaces/EN-resume/node_modules/next/dist/esm/client/components/layout-router.js": {
+    "/workspaces/en-cv/node_modules/next/dist/esm/client/components/layout-router.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "*",
       "chunks": [
@@ -187,7 +187,7 @@
       ],
       "async": false
     },
-    "/workspaces/EN-resume/node_modules/next/dist/client/components/render-from-template-context.js": {
+    "/workspaces/en-cv/node_modules/next/dist/client/components/render-from-template-context.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "*",
       "chunks": [
@@ -195,7 +195,7 @@
       ],
       "async": false
     },
-    "/workspaces/EN-resume/node_modules/next/dist/esm/client/components/render-from-template-context.js": {
+    "/workspaces/en-cv/node_modules/next/dist/esm/client/components/render-from-template-context.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "*",
       "chunks": [
@@ -203,7 +203,7 @@
       ],
       "async": false
     },
-    "/workspaces/EN-resume/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js": {
+    "/workspaces/en-cv/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "*",
       "chunks": [
@@ -211,7 +211,7 @@
       ],
       "async": false
     },
-    "/workspaces/EN-resume/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js": {
+    "/workspaces/en-cv/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "*",
       "chunks": [
@@ -219,7 +219,7 @@
       ],
       "async": false
     },
-    "/workspaces/EN-resume/components/about.tsx": {
+    "/workspaces/en-cv/components/about.tsx": {
       "id": "(app-client)/./components/about.tsx",
       "name": "*",
       "chunks": [
@@ -227,7 +227,7 @@
       ],
       "async": false
     },
-    "/workspaces/EN-resume/components/contact.tsx": {
+    "/workspaces/en-cv/components/contact.tsx": {
       "id": "(app-client)/./components/contact.tsx",
       "name": "*",
       "chunks": [
@@ -235,7 +235,7 @@
       ],
       "async": false
     },
-    "/workspaces/EN-resume/components/experience.tsx": {
+    "/workspaces/en-cv/components/experience.tsx": {
       "id": "(app-client)/./components/experience.tsx",
       "name": "*",
       "chunks": [
@@ -243,7 +243,7 @@
       ],
       "async": false
     },
-    "/workspaces/EN-resume/components/intro.tsx": {
+    "/workspaces/en-cv/components/intro.tsx": {
       "id": "(app-client)/./components/intro.tsx",
       "name": "*",
       "chunks": [
@@ -251,7 +251,7 @@
       ],
       "async": false
     },
-    "/workspaces/EN-resume/components/projects.tsx": {
+    "/workspaces/en-cv/components/projects.tsx": {
       "id": "(app-client)/./components/projects.tsx",
       "name": "*",
       "chunks": [
@@ -259,7 +259,7 @@
       ],
       "async": false
     },
-    "/workspaces/EN-resume/components/section-divider.tsx": {
+    "/workspaces/en-cv/components/section-divider.tsx": {
       "id": "(app-client)/./components/section-divider.tsx",
       "name": "*",
       "chunks": [
@@ -267,7 +267,7 @@
       ],
       "async": false
     },
-    "/workspaces/EN-resume/components/skills.tsx": {
+    "/workspaces/en-cv/components/skills.tsx": {
       "id": "(app-client)/./components/skills.tsx",
       "name": "*",
       "chunks": [
@@ -275,7 +275,7 @@
       ],
       "async": false
     },
-    "/workspaces/EN-resume/node_modules/react-hot-toast/dist/index.mjs": {
+    "/workspaces/en-cv/node_modules/react-hot-toast/dist/index.mjs": {
       "id": "(app-client)/./node_modules/react-hot-toast/dist/index.mjs",
       "name": "*",
       "chunks": [
@@ -283,7 +283,7 @@
       ],
       "async": false
     },
-    "/workspaces/EN-resume/node_modules/next/font/google/target.css?{\"path\":\"app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}": {
+    "/workspaces/en-cv/node_modules/next/font/google/target.css?{\"path\":\"app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}": {
       "id": "(app-client)/./node_modules/next/font/google/target.css?{\"path\":\"app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}",
       "name": "*",
       "chunks": [
@@ -291,7 +291,7 @@
       ],
       "async": false
     },
-    "/workspaces/EN-resume/components/header.tsx": {
+    "/workspaces/en-cv/components/header.tsx": {
       "id": "(app-client)/./components/header.tsx",
       "name": "*",
       "chunks": [
@@ -299,7 +299,7 @@
       ],
       "async": false
     },
-    "/workspaces/EN-resume/components/theme-switch.tsx": {
+    "/workspaces/en-cv/components/theme-switch.tsx": {
       "id": "(app-client)/./components/theme-switch.tsx",
       "name": "*",
       "chunks": [
@@ -307,7 +307,7 @@
       ],
       "async": false
     },
-    "/workspaces/EN-resume/context/active-section-context.tsx": {
+    "/workspaces/en-cv/context/active-section-context.tsx": {
       "id": "(app-client)/./context/active-section-context.tsx",
       "name": "*",
       "chunks": [
@@ -315,7 +315,7 @@
       ],
       "async": false
     },
-    "/workspaces/EN-resume/context/theme-context.tsx": {
+    "/workspaces/en-cv/context/theme-context.tsx": {
       "id": "(app-client)/./context/theme-context.tsx",
       "name": "*",
       "chunks": [
@@ -323,7 +323,7 @@
       ],
       "async": false
     },
-    "/workspaces/EN-resume/app/globals.css": {
+    "/workspaces/en-cv/app/globals.css": {
       "id": "(app-client)/./app/globals.css",
       "name": "*",
       "chunks": [
@@ -333,10 +333,10 @@
     }
   },
   "entryCSSFiles": {
-    "/workspaces/EN-resume/app/page": [
+    "/workspaces/en-cv/app/page": [
       "static/css/app/page.css"
     ],
-    "/workspaces/EN-resume/app/layout": [
+    "/workspaces/en-cv/app/layout": [
       "static/css/app/layout.css"
     ]
   }
