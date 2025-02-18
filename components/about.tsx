@@ -19,30 +19,12 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        After graduating with a degree in{" "}
-        <span className="font-medium">Accounting</span>, I decided to pursue my
-        passion for programming. I enrolled in a coding bootcamp and learned{" "}
-        <span className="font-medium">full-stack web development</span>.{" "}
-        <span className="italic">My favorite part of programming</span> is the
-        problem-solving aspect. I <span className="underline">love</span> the
-        feeling of finally figuring out a solution to a problem. My core stack
-        is{" "}
-        <span className="font-medium">
-          React, Next.js, Node.js, and MongoDB
-        </span>
-        . I am also familiar with TypeScript and Prisma. I am always looking to
-        learn new technologies. I am currently looking for a{" "}
-        <span className="font-medium">full-time position</span> as a software
-        developer.
+        <p>Before university, I started my journey with <strong>HTML</strong> and <strong>CSS</strong>, designing websites and gradually learning <strong>JavaScript</strong> and <strong>PHP</strong> to add more functionality. I later transitioned to <strong>WordPress</strong> as a website designer, collaborating with experts on <strong>performance optimization</strong>, <strong>SEO</strong>, and <strong>content creation</strong>. However, my true passion is <strong>programming</strong>, and I’m now focused on leveraging <strong>cutting-edge technologies</strong> and <strong>AI</strong> to improve my work and solve real-world problems.</p>
       </p>
 
       <p>
-        <span className="italic">When I'm not coding</span>, I enjoy playing
-        video games, watching movies, and playing with my dog. I also enjoy{" "}
-        <span className="font-medium">learning new things</span>. I am currently
-        learning about{" "}
-        <span className="font-medium">history and philosophy</span>. I'm also
-        learning how to play the guitar.
+        <p><span className="italic">When I'm not coding</span>, I enjoy playing video games, playing football, and reading management books to enhance my <span className="font-medium">soft skills</span> like leadership, time management, and communication. I believe in balancing technical expertise with personal growth and staying curious about new opportunities.</p>
+
       </p>
     </motion.section>
   );

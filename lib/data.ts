@@ -3,8 +3,10 @@ import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
 import corpcommentImg from "@/public/corpcomment.png";
-import rmtdevImg from "@/public/rmtdev.png";
-import wordanalyticsImg from "@/public/wordanalytics.png";
+import mapImg from "@/public/map.png";
+import yaratubeImg from "@/public/yaratube.png";
+import spadanaImg from "@/public/spadana.png";
+
 
 export const links = [
   {
@@ -62,25 +64,32 @@ export const experiencesData = [
 
 export const projectsData = [
   {
-    title: "CorpComment",
+    title: "mushroom . news",
     description:
-      "I worked as a full-stack developer on this startup project for 2 years. Users can give public feedback to companies.",
-    tags: ["React", "Next.js", "MongoDB", "Tailwind", "Prisma"],
+      "I worked as a web developer on this startup project for 1 years. This company is a startup dedicated to modernizing the mushroom industry and providing an integrated platform for this sector.",
+    tags: ["Html5", "Css3", "Javascript", "WordPress", "Cpanel"],
     imageUrl: corpcommentImg,
   },
   {
-    title: "rmtDev",
+    title: "mushroom map",
     description:
-      "Job board for remote developer jobs. I was the front-end developer. It has features like filtering, sorting and pagination.",
-    tags: ["React", "TypeScript", "Next.js", "Tailwind", "Redux"],
-    imageUrl: rmtdevImg,
+      "I worked as a Php developer on this project for 6 mounths. Users can navigate to the branches of mushroom production factories.",
+    tags: ["javascript", "leafletJs", "MySql", "PhP", "Laravel" , "PWA"],
+    imageUrl: mapImg,
   },
   {
-    title: "Word Analytics",
+    title: "Yaratube",
     description:
-      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
-    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
-    imageUrl: wordanalyticsImg,
+      "I worked as WordPress developer. I was the front-end developer. It has features like filtering, sorting and pagination.",
+    tags: ["React", "TypeScript", "Next.js", "Tailwind", "Redux"],
+    imageUrl: yaratubeImg,
+  },
+  {
+    title: "Spadana vending",
+    description:
+      "I worked as E-commerce managmer. This company manufactured vending machines and provided related services.",
+    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer" , "Framer"],
+    imageUrl: spadanaImg,
   },
 ] as const;
 
